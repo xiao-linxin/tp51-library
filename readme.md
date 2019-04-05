@@ -1,4 +1,9 @@
 # tp51-library for ThinkPHP5.1
+[![Latest Stable Version](https://poser.pugx.org/yoko/tp51-library/v/stable)](https://packagist.org/packages/yoko/tp51-library)
+[![Total Downloads](https://poser.pugx.org/yoko/tp51-library/downloads)](https://packagist.org/packages/yoko/tp51-library)
+[![Latest Unstable Version](https://poser.pugx.org/yoko/tp51-library/v/unstable)](https://packagist.org/packages/yoko/tp51-library)
+[![License](https://poser.pugx.org/yoko/tp51-library/license)](https://packagist.org/packages/yoko/tp51-library)
+
 tp51-library 是针对 ThinkPHP5.1 版本封装的一套工具类库。
 
 ## 使用说明
