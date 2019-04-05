@@ -1,17 +1,5 @@
 <?php
 
-// +----------------------------------------------------------------------
-// | Library for ThinkAdmin
-// +----------------------------------------------------------------------
-// | 版权所有 2014~2018 广州楚才信息科技有限公司 [ http://www.cuci.cc ]
-// +----------------------------------------------------------------------
-// | 官方网站: http://library.thinkadmin.top
-// +----------------------------------------------------------------------
-// | 开源协议 ( https://mit-license.org )
-// +----------------------------------------------------------------------
-// | github 仓库地址 ：https://github.com/zoujingli/ThinkLibrary
-// +----------------------------------------------------------------------
-
 namespace library;
 
 use library\tools\Cors;
@@ -30,8 +18,6 @@ use library\tools\Csrf;
  * @method mixed _form($dbQuery, $tplFile = '', $pkField = '', $where = [], $data = [])
  * @method array _page($dbQuery, $isPage = true, $isDisplay = true, $total = false, $limit = 0)
  * --------------------------------
- * @author Anyon <zoujingli@qq.com>
- * @date 2018/08/10 11:31
  */
 class Controller extends \stdClass
 {
